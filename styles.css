@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+h1 {
+    color: #0a58ca;
+}
+
+#task-list .competed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.p {
+    margin: 0 auto;
+}
